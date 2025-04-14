@@ -1,0 +1,180 @@
+python ffnn.py --hidden_dim 128 --epochs 10 --train_data training.json --val_data validation.json --do_train:
+Training accuracy for epoch 1: 0.4186875
+Training time for this epoch: 495.46619868278503
+Validation accuracy for epoch 1: 0.5425
+Validation time for this epoch: 4.244332790374756
+
+Training accuracy for epoch 2: 0.5050625
+Training time for this epoch: 627.5278825759888
+Validation accuracy for epoch 2: 0.50375
+Validation time for this epoch: 10.832405090332031
+
+Training accuracy for epoch 3: 0.5458125
+Training time for this epoch: 889.7245125770569
+Validation accuracy for epoch 3: 0.56375
+Validation time for this epoch: 8.672683238983154
+
+
+Training accuracy for epoch 4: 0.5765625
+Training time for this epoch: 880.8929603099823
+Validation accuracy for epoch 4: 0.51375
+Validation time for this epoch: 8.118297100067139
+
+Training accuracy for epoch 5: 0.6025
+Training time for this epoch: 890.9139840602875
+Validation accuracy for epoch 5: 0.57125
+Validation time for this epoch: 9.668553113937378
+
+Training accuracy for epoch 6: 0.637
+Training time for this epoch: 896.6510324478149
+Validation accuracy for epoch 6: 0.5025
+Validation time for this epoch: 8.261896133422852
+
+Training accuracy for epoch 7: 0.6634375
+Training time for this epoch: 872.620815038681
+Validation accuracy for epoch 7: 0.55875
+Validation time for this epoch: 8.327855587005615
+
+Training accuracy for epoch 8: 0.6928125
+Training time for this epoch: 879.4325349330902
+Validation accuracy for epoch 8: 0.43625
+Validation time for this epoch: 8.76640796661377
+
+Training accuracy for epoch 9: 0.7291875
+Training time for this epoch: 876.0349025726318
+Validation accuracy for epoch 9: 0.58
+Validation time for this epoch: 8.15657639503479
+
+Training accuracy for epoch 10: 0.7428125
+Training time for this epoch: 878.9726805686951
+Validation accuracy for epoch 10: 0.49375
+Validation time for this epoch: 9.111025094985962
+
+python ffnn.py --hidden_dim 128 --epochs 15 --train_data training.json --val_data validation.json --do_train
+
+Training accuracy for epoch 1: 0.4186875
+Training time for this epoch: 879.6146953105927
+Validation accuracy for epoch 1: 0.5425
+Validation time for this epoch: 10.810295581817627
+
+Training accuracy for epoch 2: 0.5050625
+Training time for this epoch: 880.1083540916443
+Validation accuracy for epoch 2: 0.50375
+Validation time for this epoch: 9.171801567077637
+
+Training accuracy for epoch 3: 0.5458125
+Training time for this epoch: 879.9943752288818
+Validation accuracy for epoch 3: 0.56375
+Validation time for this epoch: 10.120126247406006
+
+Training accuracy for epoch 4: 0.5765625
+Training time for this epoch: 901.0647466182709
+Validation accuracy for epoch 4: 0.51375
+Validation time for this epoch: 9.101012229919434
+
+Training accuracy for epoch 5: 0.6025
+Training time for this epoch: 875.4229261875153
+Validation accuracy for epoch 5: 0.57125
+Validation time for this epoch: 8.43002438545227
+
+Training accuracy for epoch 6: 0.637
+Training time for this epoch: 876.7040963172913
+Validation accuracy for epoch 6: 0.5025
+Validation time for this epoch: 8.154107093811035
+
+Training accuracy for epoch 7: 0.6634375
+Training time for this epoch: 877.5779912471771
+Validation accuracy for epoch 7: 0.55875
+Validation time for this epoch: 8.56984543800354
+
+Training accuracy for epoch 8: 0.6928125
+Training time for this epoch: 878.326233625412
+Validation accuracy for epoch 8: 0.43625
+Validation time for this epoch: 8.50057315826416
+
+Training accuracy for epoch 9: 0.7291875
+Training time for this epoch: 561.293787240982
+Validation accuracy for epoch 9: 0.58
+Validation time for this epoch: 3.4825949668884277
+
+Training accuracy for epoch 10: 0.7428125
+Training time for this epoch: 454.34117698669434
+Validation accuracy for epoch 10: 0.49375
+Validation time for this epoch: 3.5496339797973633
+
+Training accuracy for epoch 11: 0.7791875
+Training time for this epoch: 461.1453881263733
+Validation accuracy for epoch 11: 0.55375
+Validation time for this epoch: 3.4205856323242188
+
+Training accuracy for epoch 12: 0.81025
+Training time for this epoch: 457.91737055778503
+Validation accuracy for epoch 12: 0.55
+Validation time for this epoch: 3.375854969024658
+
+Training accuracy for epoch 13: 0.8305625
+Training time for this epoch: 455.8979778289795
+Validation accuracy for epoch 13: 0.54
+Validation time for this epoch: 3.3462648391723633
+
+Training accuracy for epoch 14: 0.8551875
+Training time for this epoch: 456.44325733184814
+Validation accuracy for epoch 14: 0.55375
+Validation time for this epoch: 3.404683828353882
+
+Training accuracy for epoch 15: 0.8624375
+Training time for this epoch: 465.41259956359863
+Validation accuracy for epoch 15: 0.54
+Validation time for this epoch: 4.34851598739624
+
+python ffnn.py --hidden_dim 64  --epochs 10 --train_data training.json --val_data validation.json --do_train
+
+Training accuracy for epoch 1: 0.4168125
+Training time for this epoch: 216.83853960037231
+Validation accuracy for epoch 1: 0.49
+Validation time for this epoch: 2.0189661979675293
+
+Training accuracy for epoch 2: 0.51025
+Training time for this epoch: 217.75967717170715
+Validation accuracy for epoch 2: 0.50125
+Validation time for this epoch: 1.989173412322998
+
+Training accuracy for epoch 3: 0.541375
+Training time for this epoch: 222.9234139919281
+Validation accuracy for epoch 3: 0.56125
+Validation time for this epoch: 2.0045745372772217
+
+Training accuracy for epoch 4: 0.5875625
+Training time for this epoch: 221.15088820457458
+Validation accuracy for epoch 4: 0.49375
+Validation time for this epoch: 1.8898301124572754
+
+Training accuracy for epoch 5: 0.60625
+Training time for this epoch: 221.56188201904297
+Validation accuracy for epoch 5: 0.5
+Validation time for this epoch: 1.9779720306396484
+
+Training accuracy for epoch 6: 0.631375
+Training time for this epoch: 225.5004222393036
+Validation accuracy for epoch 6: 0.58
+Validation time for this epoch: 2.056865692138672
+
+Training accuracy for epoch 7: 0.6551875
+Training time for this epoch: 223.30303955078125
+Validation accuracy for epoch 7: 0.6125
+Validation time for this epoch: 2.1334831714630127
+
+Training accuracy for epoch 8: 0.682625
+Training time for this epoch: 226.89156007766724
+Validation accuracy for epoch 8: 0.5175
+Validation time for this epoch: 2.1926066875457764
+
+Training accuracy for epoch 9: 0.702875
+Training time for this epoch: 223.64255261421204
+Validation accuracy for epoch 9: 0.54125
+Validation time for this epoch: 1.9959118366241455
+
+Training accuracy for epoch 10: 0.741
+Training time for this epoch: 223.59775137901306
+Validation accuracy for epoch 10: 0.545
+Validation time for this epoch: 1.9529988765716553
